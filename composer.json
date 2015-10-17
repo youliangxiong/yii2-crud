@@ -16,9 +16,5 @@
 			"name": "youliangxiong",
 			"email": "xyl_0815@qq.com"
 		}
-	],
-	"require": {
-		"yiisoft/yii2": "*",
-		"twbs/bootstrap": "3.0.*"
-	}
+	]
 }
